@@ -8,19 +8,11 @@
     <img alt="Discord" src="https://img.shields.io/discord/865233670938689537?logo=discord&color=0&logoColor=white&label=Discord&style=flat-square">
   </a>
   <a style="text-decoration:none" href="https://twitter.com/spacescan_io">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/spacescan-io?color=blue&label=Twitter&logo=twitter&logoColor=white&style=flat-square">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/spacescan_io?color=blue&label=Twitter&logo=twitter&logoColor=white&style=flat-square">
   </a>
 </p>
 
 
-
-- 👋 Hi, I’m @spacescan-io
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-spacescan-io/spacescan-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Spacescan.io community place to track features and issues
+All feature suggestions and issue reports are welcome.
+Please list it in issues and team would work on it.
