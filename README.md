@@ -13,6 +13,6 @@
 </p>
 
 
-# Spacescan.io community place to track features and issues
+# Spacescan.io - Features suggestions and issues
 All feature suggestions and issue reports are welcome.
 Please list it in issues and team would work on it.
